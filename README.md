@@ -1,7 +1,7 @@
 # History-Blog-Demo
 
 
-The goal for this project is to create a responsive website for a history blogs.
+The goal for this project is to create a responsive website for a history blog.
 
 # What I Used
 
